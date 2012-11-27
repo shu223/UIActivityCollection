@@ -28,3 +28,9 @@
 [submodule "Instagram"]
 	path = Instagram
 	url = git://github.com/coryalder/DMActivityInstagram.git
+[submodule "Pocket"]
+	path = Pocket
+	url = https://github.com/tomazsh/NNNetwork
+[submodule "Tumbletail"]
+	path = Tumbletail
+	url = https://github.com/cathandnya/CHTumbletailActivity
