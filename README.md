@@ -9,4 +9,4 @@ A collection of iOS6 UIActivity providers.
     $ git submodule update --init --recursive
 
 ##Usage
-Please check out each reapository.
+Please check out the demo project included or each reapository.
