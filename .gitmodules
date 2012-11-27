@@ -1,0 +1,30 @@
+[submodule "Buffer"]
+	path = Buffer
+	url = git://github.com/bufferapp/buffer-uiactivity.git
+[submodule "Dropbox"]
+	path = Dropbox
+	url = git://github.com/goosoftware/GSDropboxActivity.git
+[submodule "SoundCloud"]
+	path = SoundCloud
+	url = git://github.com/nbonatsakis/NBSoundCloudActivity.git
+[submodule "Flattr"]
+	path = Flattr
+	url = git://github.com/neonichu/FlattrKit.git
+[submodule "Instapaper"]
+	path = Instapaper
+	url = git://github.com/marianoabdala/Instapaper-Activity.git
+[submodule "Pinboard"]
+	path = Pinboard
+	url = git://github.com/neonichu/VUPinboardActivity.git
+[submodule "Chrome"]
+	path = Chrome
+	url = git://github.com/alextrob/ARChromeActivity.git
+[submodule "Readability"]
+	path = Readability
+	url = git://github.com/arc90/ReadabilityActivity.git
+[submodule "Pinbook"]
+	path = Pinbook
+	url = git://github.com/collindonnell/ALBPinbookActivity.git
+[submodule "Instagram"]
+	path = Instagram
+	url = git://github.com/coryalder/DMActivityInstagram.git
