@@ -39,4 +39,4 @@
 	url = https://github.com/otaviocc/NHCalendarActivity.git
 [submodule "Safari"]
 	path = Safari
-	url = https://github.com/davbeck/TUSafariActivity.git
+	url = git://github.com/davbeck/TUSafariActivity.git
