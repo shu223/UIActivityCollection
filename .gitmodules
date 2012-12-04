@@ -34,3 +34,9 @@
 [submodule "Tumbletail"]
 	path = Tumbletail
 	url = https://github.com/cathandnya/CHTumbletailActivity
+[submodule "Calendar"]
+	path = Calendar
+	url = https://github.com/otaviocc/NHCalendarActivity.git
+[submodule "Safari"]
+	path = Safari
+	url = https://github.com/davbeck/TUSafariActivity.git
