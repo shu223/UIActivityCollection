@@ -40,3 +40,9 @@
 [submodule "Safari"]
 	path = Safari
 	url = git://github.com/davbeck/TUSafariActivity.git
+[submodule "Line"]
+	path = Line
+	url = git://github.com/nottihub/LineActivity.git
+[submodule "KakaoTalk"]
+	path = KakaoTalk
+	url = git://github.com/minorblend/MBActivities.git
