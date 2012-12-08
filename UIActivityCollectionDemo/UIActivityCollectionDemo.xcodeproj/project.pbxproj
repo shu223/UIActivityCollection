@@ -128,7 +128,6 @@
 		8ACF035B1664B67400B114BB /* BufferSheetViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8ACF03591664B67400B114BB /* BufferSheetViewController.xib */; };
 		8ACF035D1664B69A00B114BB /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8ACF035C1664B69A00B114BB /* QuartzCore.framework */; };
 		8ACF036C1664B86100B114BB /* GSDropboxActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 8ACF03601664B86100B114BB /* GSDropboxActivity.m */; };
-		8ACF036D1664B86100B114BB /* GSDropboxActivityIcon.opacity in Resources */ = {isa = PBXBuildFile; fileRef = 8ACF03611664B86100B114BB /* GSDropboxActivityIcon.opacity */; };
 		8ACF036E1664B86100B114BB /* GSDropboxActivityIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8ACF03621664B86100B114BB /* GSDropboxActivityIcon.png */; };
 		8ACF036F1664B86100B114BB /* GSDropboxActivityIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8ACF03631664B86100B114BB /* GSDropboxActivityIcon@2x.png */; };
 		8ACF03701664B86100B114BB /* GSDropboxActivityIcon@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8ACF03641664B86100B114BB /* GSDropboxActivityIcon@2x~ipad.png */; };
@@ -332,7 +331,6 @@
 		8ACF035C1664B69A00B114BB /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		8ACF035F1664B86100B114BB /* GSDropboxActivity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GSDropboxActivity.h; sourceTree = "<group>"; };
 		8ACF03601664B86100B114BB /* GSDropboxActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GSDropboxActivity.m; sourceTree = "<group>"; };
-		8ACF03611664B86100B114BB /* GSDropboxActivityIcon.opacity */ = {isa = PBXFileReference; lastKnownFileType = file; path = GSDropboxActivityIcon.opacity; sourceTree = "<group>"; };
 		8ACF03621664B86100B114BB /* GSDropboxActivityIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GSDropboxActivityIcon.png; sourceTree = "<group>"; };
 		8ACF03631664B86100B114BB /* GSDropboxActivityIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "GSDropboxActivityIcon@2x.png"; sourceTree = "<group>"; };
 		8ACF03641664B86100B114BB /* GSDropboxActivityIcon@2x~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "GSDropboxActivityIcon@2x~ipad.png"; sourceTree = "<group>"; };
@@ -704,7 +702,6 @@
 			children = (
 				8ACF035F1664B86100B114BB /* GSDropboxActivity.h */,
 				8ACF03601664B86100B114BB /* GSDropboxActivity.m */,
-				8ACF03611664B86100B114BB /* GSDropboxActivityIcon.opacity */,
 				8ACF03621664B86100B114BB /* GSDropboxActivityIcon.png */,
 				8ACF03631664B86100B114BB /* GSDropboxActivityIcon@2x.png */,
 				8ACF03641664B86100B114BB /* GSDropboxActivityIcon@2x~ipad.png */,
@@ -825,7 +822,6 @@
 				8ACF03231664B42D00B114BB /* BufferSheetLogo.png in Resources */,
 				8ACF03241664B42D00B114BB /* BufferSheetLogo@2x.png in Resources */,
 				8ACF035B1664B67400B114BB /* BufferSheetViewController.xib in Resources */,
-				8ACF036D1664B86100B114BB /* GSDropboxActivityIcon.opacity in Resources */,
 				8ACF036E1664B86100B114BB /* GSDropboxActivityIcon.png in Resources */,
 				8ACF036F1664B86100B114BB /* GSDropboxActivityIcon@2x.png in Resources */,
 				8ACF03701664B86100B114BB /* GSDropboxActivityIcon@2x~ipad.png in Resources */,
