@@ -46,3 +46,9 @@
 [submodule "KakaoTalk"]
 	path = KakaoTalk
 	url = git://github.com/minorblend/DCActivities.git
+[submodule "AppStore"]
+	path = AppStore
+	url = git://github.com/J3D1-WARR10R/ATFAppStoreActivity.git
+[submodule "In-App"]
+	path = In-App
+	url = git://github.com/J3D1-WARR10R/ATFUIWebViewActivity.git
