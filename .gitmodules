@@ -52,3 +52,6 @@
 [submodule "In-App"]
 	path = In-App
 	url = git://github.com/J3D1-WARR10R/ATFUIWebViewActivity.git
+[submodule "GoogleMaps"]
+	path = GoogleMaps
+	url = git://github.com/jnjosh/JNJGoogleMapsActivity.git
