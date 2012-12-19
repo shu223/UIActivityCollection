@@ -15,6 +15,7 @@
 #import "NHCalendarActivity.h"
 #import "TUSafariActivity.h"
 #import "LINEActivity.h"
+#import "SHNakamapActivity.h"
 
 
 @interface ViewController ()
@@ -95,6 +96,7 @@
     NHCalendarActivity   *calendarActivity   = [[NHCalendarActivity alloc] init];
     TUSafariActivity     *safariActivity     = [[TUSafariActivity alloc] init];
     LINEActivity         *lineActivity       = [[LINEActivity alloc] init];
+    SHNakamapActivity    *nakamapActivity    = [[SHNakamapActivity alloc] init];
     
     NSArray *activities = @[
     bufferActivity,
@@ -105,6 +107,7 @@
     calendarActivity,
     safariActivity,
     lineActivity,
+    nakamapActivity,
     ];
     
     // UIActivityViewController

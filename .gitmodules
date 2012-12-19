@@ -55,3 +55,6 @@
 [submodule "GoogleMaps"]
 	path = GoogleMaps
 	url = git://github.com/jnjosh/JNJGoogleMapsActivity.git
+[submodule "Nakamap"]
+	path = Nakamap
+	url = git@github.com:shu223/SHNakamapActivity.git
