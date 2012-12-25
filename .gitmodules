@@ -10,9 +10,6 @@
 [submodule "Flattr"]
 	path = Flattr
 	url = git://github.com/neonichu/FlattrKit.git
-[submodule "Instapaper"]
-	path = Instapaper
-	url = git://github.com/marianoabdala/Instapaper-Activity.git
 [submodule "Pinboard"]
 	path = Pinboard
 	url = git://github.com/neonichu/VUPinboardActivity.git
