@@ -55,3 +55,6 @@
 [submodule "Nakamap"]
 	path = Nakamap
 	url = git@github.com:shu223/SHNakamapActivity.git
+[submodule "Instapaper"]
+	path = Instapaper
+	url = git://github.com/marianoabdala/ZYInstapaperActivity.git

@@ -12,6 +12,24 @@
 		8A562F1F1681B8610082661D /* NakamapActivityIcon@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A562F191681B8610082661D /* NakamapActivityIcon@2x~ipad.png */; };
 		8A562F201681B8610082661D /* NakamapActivityIcon~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A562F1A1681B8610082661D /* NakamapActivityIcon~ipad.png */; };
 		8A562F211681B8610082661D /* SHNakamapActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A562F1C1681B8610082661D /* SHNakamapActivity.m */; };
+		8A75998A16893F9E00599073 /* instapaper-ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A75996116893F9E00599073 /* instapaper-ipad.png */; };
+		8A75998B16893F9E00599073 /* instapaper-ipad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A75996216893F9E00599073 /* instapaper-ipad@2x.png */; };
+		8A75998C16893F9E00599073 /* instapaper.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A75996316893F9E00599073 /* instapaper.png */; };
+		8A75998D16893F9E00599073 /* instapaper@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A75996416893F9E00599073 /* instapaper@2x.png */; };
+		8A75998F16893F9E00599073 /* KeychainItemWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A75996816893F9E00599073 /* KeychainItemWrapper.m */; };
+		8A75999116893F9E00599073 /* ZYActivityViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A75996B16893F9E00599073 /* ZYActivityViewController.m */; };
+		8A75999216893F9E00599073 /* ZYAddItemsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A75996D16893F9E00599073 /* ZYAddItemsViewController.m */; };
+		8A75999316893F9E00599073 /* ZYAddItemsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8A75996E16893F9E00599073 /* ZYAddItemsViewController.xib */; };
+		8A75999416893F9E00599073 /* ZYAddItemViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A75997016893F9E00599073 /* ZYAddItemViewController.m */; };
+		8A75999516893F9E00599073 /* ZYAddItemViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8A75997116893F9E00599073 /* ZYAddItemViewController.xib */; };
+		8A75999716893F9E00599073 /* ZYCredentialsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A75997516893F9E00599073 /* ZYCredentialsViewController.m */; };
+		8A75999816893F9E00599073 /* ZYCredentialsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8A75997616893F9E00599073 /* ZYCredentialsViewController.xib */; };
+		8A75999916893F9E00599073 /* ZYInstapaperActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A75997816893F9E00599073 /* ZYInstapaperActivity.m */; };
+		8A75999A16893F9E00599073 /* ZYInstapaperActivityItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A75997A16893F9E00599073 /* ZYInstapaperActivityItem.m */; };
+		8A75999B16893F9E00599073 /* ZYInstapaperActivitySecurity.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A75997C16893F9E00599073 /* ZYInstapaperActivitySecurity.m */; };
+		8A75999C16893F9E00599073 /* ZYInstapaperAddRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A75997E16893F9E00599073 /* ZYInstapaperAddRequest.m */; };
+		8A75999D16893F9E00599073 /* ZYTopAlignedLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A75998116893F9E00599073 /* ZYTopAlignedLabel.m */; };
+		8A75999E16893F9E00599073 /* ZYViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A75998316893F9E00599073 /* ZYViewController.m */; };
 		8A8697F51671AEE900F82DDE /* BufferIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A8697E91671AEE900F82DDE /* BufferIcon.png */; };
 		8A8697F61671AEE900F82DDE /* BufferIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A8697EA1671AEE900F82DDE /* BufferIcon@2x.png */; };
 		8A8697F71671AEE900F82DDE /* BufferProfileCountBG.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A8697EB1671AEE900F82DDE /* BufferProfileCountBG.png */; };
@@ -48,23 +66,6 @@
 		8AB8C05B1664C4D0003A236C /* ARChromeActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 8AB8C0561664C4D0003A236C /* ARChromeActivity.m */; };
 		8AB8C0681664C882003A236C /* button1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AB8C0661664C882003A236C /* button1@2x.png */; };
 		8AB8C0691664C882003A236C /* button2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AB8C0671664C882003A236C /* button2@2x.png */; };
-		8AB8C0A01664CC0B003A236C /* instapaper-ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AB8C0771664CC0B003A236C /* instapaper-ipad.png */; };
-		8AB8C0A11664CC0B003A236C /* instapaper-ipad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AB8C0781664CC0B003A236C /* instapaper-ipad@2x.png */; };
-		8AB8C0A21664CC0B003A236C /* instapaper.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AB8C0791664CC0B003A236C /* instapaper.png */; };
-		8AB8C0A31664CC0B003A236C /* instapaper@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AB8C07A1664CC0B003A236C /* instapaper@2x.png */; };
-		8AB8C0A51664CC0B003A236C /* KeychainItemWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 8AB8C07E1664CC0B003A236C /* KeychainItemWrapper.m */; };
-		8AB8C0A71664CC0B003A236C /* ZYActivityViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8AB8C0811664CC0B003A236C /* ZYActivityViewController.m */; };
-		8AB8C0A81664CC0B003A236C /* ZYAddItemsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8AB8C0831664CC0B003A236C /* ZYAddItemsViewController.m */; };
-		8AB8C0A91664CC0B003A236C /* ZYAddItemsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8AB8C0841664CC0B003A236C /* ZYAddItemsViewController.xib */; };
-		8AB8C0AA1664CC0B003A236C /* ZYAddItemViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8AB8C0861664CC0B003A236C /* ZYAddItemViewController.m */; };
-		8AB8C0AB1664CC0B003A236C /* ZYAddItemViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8AB8C0871664CC0B003A236C /* ZYAddItemViewController.xib */; };
-		8AB8C0AD1664CC0B003A236C /* ZYCredentialsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8AB8C08B1664CC0B003A236C /* ZYCredentialsViewController.m */; };
-		8AB8C0AE1664CC0B003A236C /* ZYCredentialsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8AB8C08C1664CC0B003A236C /* ZYCredentialsViewController.xib */; };
-		8AB8C0AF1664CC0B003A236C /* ZYInstapaperActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 8AB8C08E1664CC0B003A236C /* ZYInstapaperActivity.m */; };
-		8AB8C0B01664CC0B003A236C /* ZYInstapaperActivityItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 8AB8C0901664CC0B003A236C /* ZYInstapaperActivityItem.m */; };
-		8AB8C0B11664CC0B003A236C /* ZYInstapaperActivitySecurity.m in Sources */ = {isa = PBXBuildFile; fileRef = 8AB8C0921664CC0B003A236C /* ZYInstapaperActivitySecurity.m */; };
-		8AB8C0B21664CC0B003A236C /* ZYInstapaperAddRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 8AB8C0941664CC0B003A236C /* ZYInstapaperAddRequest.m */; };
-		8AB8C0B31664CC0B003A236C /* ZYTopAlignedLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 8AB8C0971664CC0B003A236C /* ZYTopAlignedLabel.m */; };
 		8ACF02491664AFEF00B114BB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8ACF02481664AFEF00B114BB /* UIKit.framework */; };
 		8ACF024B1664AFEF00B114BB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8ACF024A1664AFEF00B114BB /* Foundation.framework */; };
 		8ACF024D1664AFEF00B114BB /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8ACF024C1664AFEF00B114BB /* CoreGraphics.framework */; };
@@ -158,6 +159,36 @@
 		8A562F1A1681B8610082661D /* NakamapActivityIcon~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NakamapActivityIcon~ipad.png"; sourceTree = "<group>"; };
 		8A562F1B1681B8610082661D /* SHNakamapActivity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SHNakamapActivity.h; sourceTree = "<group>"; };
 		8A562F1C1681B8610082661D /* SHNakamapActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SHNakamapActivity.m; sourceTree = "<group>"; };
+		8A75996116893F9E00599073 /* instapaper-ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "instapaper-ipad.png"; sourceTree = "<group>"; };
+		8A75996216893F9E00599073 /* instapaper-ipad@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "instapaper-ipad@2x.png"; sourceTree = "<group>"; };
+		8A75996316893F9E00599073 /* instapaper.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instapaper.png; sourceTree = "<group>"; };
+		8A75996416893F9E00599073 /* instapaper@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "instapaper@2x.png"; sourceTree = "<group>"; };
+		8A75996716893F9E00599073 /* KeychainItemWrapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KeychainItemWrapper.h; sourceTree = "<group>"; };
+		8A75996816893F9E00599073 /* KeychainItemWrapper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KeychainItemWrapper.m; sourceTree = "<group>"; };
+		8A75996A16893F9E00599073 /* ZYActivityViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYActivityViewController.h; sourceTree = "<group>"; };
+		8A75996B16893F9E00599073 /* ZYActivityViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYActivityViewController.m; sourceTree = "<group>"; };
+		8A75996C16893F9E00599073 /* ZYAddItemsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYAddItemsViewController.h; sourceTree = "<group>"; };
+		8A75996D16893F9E00599073 /* ZYAddItemsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYAddItemsViewController.m; sourceTree = "<group>"; };
+		8A75996E16893F9E00599073 /* ZYAddItemsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ZYAddItemsViewController.xib; sourceTree = "<group>"; };
+		8A75996F16893F9E00599073 /* ZYAddItemViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYAddItemViewController.h; sourceTree = "<group>"; };
+		8A75997016893F9E00599073 /* ZYAddItemViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYAddItemViewController.m; sourceTree = "<group>"; };
+		8A75997116893F9E00599073 /* ZYAddItemViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ZYAddItemViewController.xib; sourceTree = "<group>"; };
+		8A75997416893F9E00599073 /* ZYCredentialsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYCredentialsViewController.h; sourceTree = "<group>"; };
+		8A75997516893F9E00599073 /* ZYCredentialsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYCredentialsViewController.m; sourceTree = "<group>"; };
+		8A75997616893F9E00599073 /* ZYCredentialsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ZYCredentialsViewController.xib; sourceTree = "<group>"; };
+		8A75997716893F9E00599073 /* ZYInstapaperActivity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYInstapaperActivity.h; sourceTree = "<group>"; };
+		8A75997816893F9E00599073 /* ZYInstapaperActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYInstapaperActivity.m; sourceTree = "<group>"; };
+		8A75997916893F9E00599073 /* ZYInstapaperActivityItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYInstapaperActivityItem.h; sourceTree = "<group>"; };
+		8A75997A16893F9E00599073 /* ZYInstapaperActivityItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYInstapaperActivityItem.m; sourceTree = "<group>"; };
+		8A75997B16893F9E00599073 /* ZYInstapaperActivitySecurity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYInstapaperActivitySecurity.h; sourceTree = "<group>"; };
+		8A75997C16893F9E00599073 /* ZYInstapaperActivitySecurity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYInstapaperActivitySecurity.m; sourceTree = "<group>"; };
+		8A75997D16893F9E00599073 /* ZYInstapaperAddRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYInstapaperAddRequest.h; sourceTree = "<group>"; };
+		8A75997E16893F9E00599073 /* ZYInstapaperAddRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYInstapaperAddRequest.m; sourceTree = "<group>"; };
+		8A75997F16893F9E00599073 /* ZYInstapaperAddRequestDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYInstapaperAddRequestDelegate.h; sourceTree = "<group>"; };
+		8A75998016893F9E00599073 /* ZYTopAlignedLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYTopAlignedLabel.h; sourceTree = "<group>"; };
+		8A75998116893F9E00599073 /* ZYTopAlignedLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYTopAlignedLabel.m; sourceTree = "<group>"; };
+		8A75998216893F9E00599073 /* ZYViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYViewController.h; sourceTree = "<group>"; };
+		8A75998316893F9E00599073 /* ZYViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYViewController.m; sourceTree = "<group>"; };
 		8A8697E91671AEE900F82DDE /* BufferIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BufferIcon.png; sourceTree = "<group>"; };
 		8A8697EA1671AEE900F82DDE /* BufferIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BufferIcon@2x.png"; sourceTree = "<group>"; };
 		8A8697EB1671AEE900F82DDE /* BufferProfileCountBG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BufferProfileCountBG.png; sourceTree = "<group>"; };
@@ -199,34 +230,6 @@
 		8AB8C0561664C4D0003A236C /* ARChromeActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ARChromeActivity.m; sourceTree = "<group>"; };
 		8AB8C0661664C882003A236C /* button1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button1@2x.png"; sourceTree = "<group>"; };
 		8AB8C0671664C882003A236C /* button2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button2@2x.png"; sourceTree = "<group>"; };
-		8AB8C0771664CC0B003A236C /* instapaper-ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "instapaper-ipad.png"; sourceTree = "<group>"; };
-		8AB8C0781664CC0B003A236C /* instapaper-ipad@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "instapaper-ipad@2x.png"; sourceTree = "<group>"; };
-		8AB8C0791664CC0B003A236C /* instapaper.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instapaper.png; sourceTree = "<group>"; };
-		8AB8C07A1664CC0B003A236C /* instapaper@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "instapaper@2x.png"; sourceTree = "<group>"; };
-		8AB8C07D1664CC0B003A236C /* KeychainItemWrapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KeychainItemWrapper.h; sourceTree = "<group>"; };
-		8AB8C07E1664CC0B003A236C /* KeychainItemWrapper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KeychainItemWrapper.m; sourceTree = "<group>"; };
-		8AB8C0801664CC0B003A236C /* ZYActivityViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYActivityViewController.h; sourceTree = "<group>"; };
-		8AB8C0811664CC0B003A236C /* ZYActivityViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYActivityViewController.m; sourceTree = "<group>"; };
-		8AB8C0821664CC0B003A236C /* ZYAddItemsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYAddItemsViewController.h; sourceTree = "<group>"; };
-		8AB8C0831664CC0B003A236C /* ZYAddItemsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYAddItemsViewController.m; sourceTree = "<group>"; };
-		8AB8C0841664CC0B003A236C /* ZYAddItemsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ZYAddItemsViewController.xib; sourceTree = "<group>"; };
-		8AB8C0851664CC0B003A236C /* ZYAddItemViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYAddItemViewController.h; sourceTree = "<group>"; };
-		8AB8C0861664CC0B003A236C /* ZYAddItemViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYAddItemViewController.m; sourceTree = "<group>"; };
-		8AB8C0871664CC0B003A236C /* ZYAddItemViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ZYAddItemViewController.xib; sourceTree = "<group>"; };
-		8AB8C08A1664CC0B003A236C /* ZYCredentialsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYCredentialsViewController.h; sourceTree = "<group>"; };
-		8AB8C08B1664CC0B003A236C /* ZYCredentialsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYCredentialsViewController.m; sourceTree = "<group>"; };
-		8AB8C08C1664CC0B003A236C /* ZYCredentialsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ZYCredentialsViewController.xib; sourceTree = "<group>"; };
-		8AB8C08D1664CC0B003A236C /* ZYInstapaperActivity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYInstapaperActivity.h; sourceTree = "<group>"; };
-		8AB8C08E1664CC0B003A236C /* ZYInstapaperActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYInstapaperActivity.m; sourceTree = "<group>"; };
-		8AB8C08F1664CC0B003A236C /* ZYInstapaperActivityItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYInstapaperActivityItem.h; sourceTree = "<group>"; };
-		8AB8C0901664CC0B003A236C /* ZYInstapaperActivityItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYInstapaperActivityItem.m; sourceTree = "<group>"; };
-		8AB8C0911664CC0B003A236C /* ZYInstapaperActivitySecurity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYInstapaperActivitySecurity.h; sourceTree = "<group>"; };
-		8AB8C0921664CC0B003A236C /* ZYInstapaperActivitySecurity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYInstapaperActivitySecurity.m; sourceTree = "<group>"; };
-		8AB8C0931664CC0B003A236C /* ZYInstapaperAddRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYInstapaperAddRequest.h; sourceTree = "<group>"; };
-		8AB8C0941664CC0B003A236C /* ZYInstapaperAddRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYInstapaperAddRequest.m; sourceTree = "<group>"; };
-		8AB8C0951664CC0B003A236C /* ZYInstapaperAddRequestDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYInstapaperAddRequestDelegate.h; sourceTree = "<group>"; };
-		8AB8C0961664CC0B003A236C /* ZYTopAlignedLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYTopAlignedLabel.h; sourceTree = "<group>"; };
-		8AB8C0971664CC0B003A236C /* ZYTopAlignedLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYTopAlignedLabel.m; sourceTree = "<group>"; };
 		8ACF02441664AFEF00B114BB /* UIActivityCollectionDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIActivityCollectionDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8ACF02481664AFEF00B114BB /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		8ACF024A1664AFEF00B114BB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -398,6 +401,44 @@
 			path = ../Nakamap/SHNakamapActivity;
 			sourceTree = "<group>";
 		};
+		8A75995816893F9E00599073 /* InstapaperActivity */ = {
+			isa = PBXGroup;
+			children = (
+				8A75996116893F9E00599073 /* instapaper-ipad.png */,
+				8A75996216893F9E00599073 /* instapaper-ipad@2x.png */,
+				8A75996316893F9E00599073 /* instapaper.png */,
+				8A75996416893F9E00599073 /* instapaper@2x.png */,
+				8A75996716893F9E00599073 /* KeychainItemWrapper.h */,
+				8A75996816893F9E00599073 /* KeychainItemWrapper.m */,
+				8A75996A16893F9E00599073 /* ZYActivityViewController.h */,
+				8A75996B16893F9E00599073 /* ZYActivityViewController.m */,
+				8A75996C16893F9E00599073 /* ZYAddItemsViewController.h */,
+				8A75996D16893F9E00599073 /* ZYAddItemsViewController.m */,
+				8A75996E16893F9E00599073 /* ZYAddItemsViewController.xib */,
+				8A75996F16893F9E00599073 /* ZYAddItemViewController.h */,
+				8A75997016893F9E00599073 /* ZYAddItemViewController.m */,
+				8A75997116893F9E00599073 /* ZYAddItemViewController.xib */,
+				8A75997416893F9E00599073 /* ZYCredentialsViewController.h */,
+				8A75997516893F9E00599073 /* ZYCredentialsViewController.m */,
+				8A75997616893F9E00599073 /* ZYCredentialsViewController.xib */,
+				8A75997716893F9E00599073 /* ZYInstapaperActivity.h */,
+				8A75997816893F9E00599073 /* ZYInstapaperActivity.m */,
+				8A75997916893F9E00599073 /* ZYInstapaperActivityItem.h */,
+				8A75997A16893F9E00599073 /* ZYInstapaperActivityItem.m */,
+				8A75997B16893F9E00599073 /* ZYInstapaperActivitySecurity.h */,
+				8A75997C16893F9E00599073 /* ZYInstapaperActivitySecurity.m */,
+				8A75997D16893F9E00599073 /* ZYInstapaperAddRequest.h */,
+				8A75997E16893F9E00599073 /* ZYInstapaperAddRequest.m */,
+				8A75997F16893F9E00599073 /* ZYInstapaperAddRequestDelegate.h */,
+				8A75998016893F9E00599073 /* ZYTopAlignedLabel.h */,
+				8A75998116893F9E00599073 /* ZYTopAlignedLabel.m */,
+				8A75998216893F9E00599073 /* ZYViewController.h */,
+				8A75998316893F9E00599073 /* ZYViewController.m */,
+			);
+			name = InstapaperActivity;
+			path = ../Instapaper/InstapaperActivity;
+			sourceTree = "<group>";
+		};
 		8A8697E81671AEE900F82DDE /* Images */ = {
 			isa = PBXGroup;
 			children = (
@@ -478,53 +519,17 @@
 		8AB8C0611664C55C003A236C /* Activities */ = {
 			isa = PBXGroup;
 			children = (
+				8A75995816893F9E00599073 /* InstapaperActivity */,
 				8A562F161681B8610082661D /* SHNakamapActivity */,
 				8A8698261671B77700F82DDE /* LINEActivity */,
 				8A86981A1671B5AC00F82DDE /* TUSafariActivity */,
 				8A8698091671AFDE00F82DDE /* NHCalendarActivity */,
-				8AB8C06E1664CC0B003A236C /* InstapaperActivity */,
 				8AB8C0541664C4D0003A236C /* ARChromeActivity */,
 				8ACF03BB1664BCB000B114BB /* DMActivityInstagram */,
 				8ACF035E1664B86100B114BB /* GSDropboxActivity */,
 				8ACF026B1664B42D00B114BB /* BufferUIActivity */,
 			);
 			name = Activities;
-			sourceTree = "<group>";
-		};
-		8AB8C06E1664CC0B003A236C /* InstapaperActivity */ = {
-			isa = PBXGroup;
-			children = (
-				8AB8C0771664CC0B003A236C /* instapaper-ipad.png */,
-				8AB8C0781664CC0B003A236C /* instapaper-ipad@2x.png */,
-				8AB8C0791664CC0B003A236C /* instapaper.png */,
-				8AB8C07A1664CC0B003A236C /* instapaper@2x.png */,
-				8AB8C07D1664CC0B003A236C /* KeychainItemWrapper.h */,
-				8AB8C07E1664CC0B003A236C /* KeychainItemWrapper.m */,
-				8AB8C0801664CC0B003A236C /* ZYActivityViewController.h */,
-				8AB8C0811664CC0B003A236C /* ZYActivityViewController.m */,
-				8AB8C0821664CC0B003A236C /* ZYAddItemsViewController.h */,
-				8AB8C0831664CC0B003A236C /* ZYAddItemsViewController.m */,
-				8AB8C0841664CC0B003A236C /* ZYAddItemsViewController.xib */,
-				8AB8C0851664CC0B003A236C /* ZYAddItemViewController.h */,
-				8AB8C0861664CC0B003A236C /* ZYAddItemViewController.m */,
-				8AB8C0871664CC0B003A236C /* ZYAddItemViewController.xib */,
-				8AB8C08A1664CC0B003A236C /* ZYCredentialsViewController.h */,
-				8AB8C08B1664CC0B003A236C /* ZYCredentialsViewController.m */,
-				8AB8C08C1664CC0B003A236C /* ZYCredentialsViewController.xib */,
-				8AB8C08D1664CC0B003A236C /* ZYInstapaperActivity.h */,
-				8AB8C08E1664CC0B003A236C /* ZYInstapaperActivity.m */,
-				8AB8C08F1664CC0B003A236C /* ZYInstapaperActivityItem.h */,
-				8AB8C0901664CC0B003A236C /* ZYInstapaperActivityItem.m */,
-				8AB8C0911664CC0B003A236C /* ZYInstapaperActivitySecurity.h */,
-				8AB8C0921664CC0B003A236C /* ZYInstapaperActivitySecurity.m */,
-				8AB8C0931664CC0B003A236C /* ZYInstapaperAddRequest.h */,
-				8AB8C0941664CC0B003A236C /* ZYInstapaperAddRequest.m */,
-				8AB8C0951664CC0B003A236C /* ZYInstapaperAddRequestDelegate.h */,
-				8AB8C0961664CC0B003A236C /* ZYTopAlignedLabel.h */,
-				8AB8C0971664CC0B003A236C /* ZYTopAlignedLabel.m */,
-			);
-			name = InstapaperActivity;
-			path = ../Instapaper/InstapaperActivity;
 			sourceTree = "<group>";
 		};
 		8ACF02391664AFEF00B114BB = {
@@ -860,13 +865,6 @@
 				8ACF03ED1664C05400B114BB /* sample.png in Resources */,
 				8AB8C0681664C882003A236C /* button1@2x.png in Resources */,
 				8AB8C0691664C882003A236C /* button2@2x.png in Resources */,
-				8AB8C0A01664CC0B003A236C /* instapaper-ipad.png in Resources */,
-				8AB8C0A11664CC0B003A236C /* instapaper-ipad@2x.png in Resources */,
-				8AB8C0A21664CC0B003A236C /* instapaper.png in Resources */,
-				8AB8C0A31664CC0B003A236C /* instapaper@2x.png in Resources */,
-				8AB8C0A91664CC0B003A236C /* ZYAddItemsViewController.xib in Resources */,
-				8AB8C0AB1664CC0B003A236C /* ZYAddItemViewController.xib in Resources */,
-				8AB8C0AE1664CC0B003A236C /* ZYCredentialsViewController.xib in Resources */,
 				8A8697F51671AEE900F82DDE /* BufferIcon.png in Resources */,
 				8A8697F61671AEE900F82DDE /* BufferIcon@2x.png in Resources */,
 				8A8697F71671AEE900F82DDE /* BufferProfileCountBG.png in Resources */,
@@ -899,6 +897,13 @@
 				8A562F1E1681B8610082661D /* NakamapActivityIcon@2x.png in Resources */,
 				8A562F1F1681B8610082661D /* NakamapActivityIcon@2x~ipad.png in Resources */,
 				8A562F201681B8610082661D /* NakamapActivityIcon~ipad.png in Resources */,
+				8A75998A16893F9E00599073 /* instapaper-ipad.png in Resources */,
+				8A75998B16893F9E00599073 /* instapaper-ipad@2x.png in Resources */,
+				8A75998C16893F9E00599073 /* instapaper.png in Resources */,
+				8A75998D16893F9E00599073 /* instapaper@2x.png in Resources */,
+				8A75999316893F9E00599073 /* ZYAddItemsViewController.xib in Resources */,
+				8A75999516893F9E00599073 /* ZYAddItemViewController.xib in Resources */,
+				8A75999816893F9E00599073 /* ZYCredentialsViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -958,21 +963,22 @@
 				8ACF03DB1664BCB000B114BB /* DMActivityInstagram.m in Sources */,
 				8ACF03DE1664BCB000B114BB /* DMResizerViewController.m in Sources */,
 				8AB8C05B1664C4D0003A236C /* ARChromeActivity.m in Sources */,
-				8AB8C0A51664CC0B003A236C /* KeychainItemWrapper.m in Sources */,
-				8AB8C0A71664CC0B003A236C /* ZYActivityViewController.m in Sources */,
-				8AB8C0A81664CC0B003A236C /* ZYAddItemsViewController.m in Sources */,
-				8AB8C0AA1664CC0B003A236C /* ZYAddItemViewController.m in Sources */,
-				8AB8C0AD1664CC0B003A236C /* ZYCredentialsViewController.m in Sources */,
-				8AB8C0AF1664CC0B003A236C /* ZYInstapaperActivity.m in Sources */,
-				8AB8C0B01664CC0B003A236C /* ZYInstapaperActivityItem.m in Sources */,
-				8AB8C0B11664CC0B003A236C /* ZYInstapaperActivitySecurity.m in Sources */,
-				8AB8C0B21664CC0B003A236C /* ZYInstapaperAddRequest.m in Sources */,
-				8AB8C0B31664CC0B003A236C /* ZYTopAlignedLabel.m in Sources */,
 				8A8698121671AFDE00F82DDE /* NHCalendarActivity.m in Sources */,
 				8A8698171671AFDE00F82DDE /* NHCalendarEvent.m in Sources */,
 				8A8698251671B5AC00F82DDE /* TUSafariActivity.m in Sources */,
 				8A86982D1671B77700F82DDE /* LINEActivity.m in Sources */,
 				8A562F211681B8610082661D /* SHNakamapActivity.m in Sources */,
+				8A75998F16893F9E00599073 /* KeychainItemWrapper.m in Sources */,
+				8A75999116893F9E00599073 /* ZYActivityViewController.m in Sources */,
+				8A75999216893F9E00599073 /* ZYAddItemsViewController.m in Sources */,
+				8A75999416893F9E00599073 /* ZYAddItemViewController.m in Sources */,
+				8A75999716893F9E00599073 /* ZYCredentialsViewController.m in Sources */,
+				8A75999916893F9E00599073 /* ZYInstapaperActivity.m in Sources */,
+				8A75999A16893F9E00599073 /* ZYInstapaperActivityItem.m in Sources */,
+				8A75999B16893F9E00599073 /* ZYInstapaperActivitySecurity.m in Sources */,
+				8A75999C16893F9E00599073 /* ZYInstapaperAddRequest.m in Sources */,
+				8A75999D16893F9E00599073 /* ZYTopAlignedLabel.m in Sources */,
+				8A75999E16893F9E00599073 /* ZYViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
