@@ -58,3 +58,6 @@ url=git://github.com/shu223/SHNakamapActivity.git
 [submodule "Instapaper"]
 	path = Instapaper
 	url = git://github.com/marianoabdala/ZYInstapaperActivity.git
+[submodule "OpenInMenu"]
+	path = OpenInMenu
+	url = https://github.com/honkmaster/TTOpenInAppActivity
