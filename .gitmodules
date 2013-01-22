@@ -61,3 +61,6 @@ url=git://github.com/shu223/SHNakamapActivity.git
 [submodule "OpenInMenu"]
 	path = OpenInMenu
 	url = https://github.com/honkmaster/TTOpenInAppActivity
+[submodule "FullscreenPreview"]
+	path = FullscreenPreview
+	url = https://github.com/honkmaster/TTFullscreenPreviewActivity
