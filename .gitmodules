@@ -64,3 +64,6 @@ url=git://github.com/shu223/SHNakamapActivity.git
 [submodule "FullscreenPreview"]
 	path = FullscreenPreview
 	url = https://github.com/honkmaster/TTFullscreenPreviewActivity
+[submodule "MessageUI"]
+	path = MessageUI
+	url = https://github.com/waynehartman/WHMessageActivities
