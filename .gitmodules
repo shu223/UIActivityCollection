@@ -82,3 +82,6 @@ url=git://github.com/shu223/SHNakamapActivity.git
 [submodule "AppStoreReview"]
 	path = AppStoreReview
 	url = https://github.com/NSPostWhenIdle/MMReviewAppActivityDemo
+[submodule "Kippster"]
+	path = Kippster
+	url = https://github.com/alextrob/ARKippsterActivity
