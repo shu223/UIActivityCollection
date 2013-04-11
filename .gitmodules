@@ -79,3 +79,6 @@ url=git://github.com/shu223/SHNakamapActivity.git
 [submodule "Upgrade"]
 	path = Upgrade
 	url = https://github.com/NSPostWhenIdle/MMUpgradeActivity
+[submodule "AppStoreReview"]
+	path = AppStoreReview
+	url = https://github.com/NSPostWhenIdle/MMReviewAppActivityDemo
