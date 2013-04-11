@@ -76,12 +76,12 @@ url=git://github.com/shu223/SHNakamapActivity.git
 [submodule "Pinner"]
 	path = Pinner
 	url = https://github.com/blork/SOPinnerActivity
-[submodule "Upgrade"]
-	path = Upgrade
-	url = https://github.com/NSPostWhenIdle/MMUpgradeActivity
 [submodule "AppStoreReview"]
 	path = AppStoreReview
 	url = https://github.com/NSPostWhenIdle/MMReviewAppActivityDemo
 [submodule "Kippster"]
 	path = Kippster
 	url = https://github.com/alextrob/ARKippsterActivity
+[submodule "AppStoreUpgrade"]
+	path = AppStoreUpgrade
+	url = https://github.com/NSPostWhenIdle/MMUpgradeActivity
