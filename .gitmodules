@@ -73,3 +73,6 @@ url=git://github.com/shu223/SHNakamapActivity.git
 [submodule "AppleMaps"]
 	path = AppleMaps
 	url = https://github.com/honkmaster/TTAppleMapsActivity
+[submodule "Pinner"]
+	path = Pinner
+	url = https://github.com/blork/SOPinnerActivity
