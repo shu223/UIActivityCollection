@@ -70,3 +70,6 @@ url=git://github.com/shu223/SHNakamapActivity.git
 [submodule "Crux"]
 	path = Crux
 	url = https://github.com/MaxHasADHD/MLCruxActivity
+[submodule "AppleMaps"]
+	path = AppleMaps
+	url = https://github.com/honkmaster/TTAppleMapsActivity
