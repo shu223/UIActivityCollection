@@ -67,3 +67,6 @@ url=git://github.com/shu223/SHNakamapActivity.git
 [submodule "MessageUI"]
 	path = MessageUI
 	url = https://github.com/waynehartman/WHMessageActivities
+[submodule "Crux"]
+	path = Crux
+	url = https://github.com/MaxHasADHD/MLCruxActivity
