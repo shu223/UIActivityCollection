@@ -31,9 +31,6 @@
 [submodule "Tumbletail"]
 	path = Tumbletail
 	url = https://github.com/cathandnya/CHTumbletailActivity
-[submodule "Calendar"]
-	path = Calendar
-	url = https://github.com/otaviocc/NHCalendarActivity.git
 [submodule "Safari"]
 	path = Safari
 	url = git://github.com/davbeck/TUSafariActivity.git
@@ -85,3 +82,9 @@ url=git://github.com/shu223/SHNakamapActivity.git
 [submodule "AppStoreUpgrade"]
 	path = AppStoreUpgrade
 	url = https://github.com/NSPostWhenIdle/MMUpgradeActivity
+[submodule "Calendar/NHCalendarActivity"]
+	path = Calendar/NHCalendarActivity
+	url = https://github.com/otaviocc/NHCalendarActivity.git
+[submodule "Calendar/YMCalendarActivity"]
+	path = Calendar/YMCalendarActivity
+	url = https://github.com/litesystems/YMCalendarActivity.git

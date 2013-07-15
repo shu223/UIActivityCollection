@@ -31,6 +31,9 @@
 		8A562F1F1681B8610082661D /* NakamapActivityIcon@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A562F191681B8610082661D /* NakamapActivityIcon@2x~ipad.png */; };
 		8A562F201681B8610082661D /* NakamapActivityIcon~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A562F1A1681B8610082661D /* NakamapActivityIcon~ipad.png */; };
 		8A562F211681B8610082661D /* SHNakamapActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A562F1C1681B8610082661D /* SHNakamapActivity.m */; };
+		8A68009E17946C1000ECE7A0 /* NHCalendarActivity.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 8A68009917946C1000ECE7A0 /* NHCalendarActivity.bundle */; };
+		8A68009F17946C1000ECE7A0 /* NHCalendarActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A68009B17946C1000ECE7A0 /* NHCalendarActivity.m */; };
+		8A6800A017946C1000ECE7A0 /* NHCalendarEvent.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A68009D17946C1000ECE7A0 /* NHCalendarEvent.m */; };
 		8A8697F51671AEE900F82DDE /* BufferIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A8697E91671AEE900F82DDE /* BufferIcon.png */; };
 		8A8697F61671AEE900F82DDE /* BufferIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A8697EA1671AEE900F82DDE /* BufferIcon@2x.png */; };
 		8A8697F71671AEE900F82DDE /* BufferProfileCountBG.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A8697EB1671AEE900F82DDE /* BufferProfileCountBG.png */; };
@@ -47,8 +50,6 @@
 		8A8698061671AF0A00F82DDE /* ARChromeActivity@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A8698021671AF0A00F82DDE /* ARChromeActivity@2x.png */; };
 		8A8698071671AF0A00F82DDE /* ARChromeActivity@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A8698031671AF0A00F82DDE /* ARChromeActivity@2x~ipad.png */; };
 		8A8698081671AF0A00F82DDE /* ARChromeActivity~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A8698041671AF0A00F82DDE /* ARChromeActivity~ipad.png */; };
-		8A8698121671AFDE00F82DDE /* NHCalendarActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A86980B1671AFDE00F82DDE /* NHCalendarActivity.m */; };
-		8A8698171671AFDE00F82DDE /* NHCalendarEvent.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A8698111671AFDE00F82DDE /* NHCalendarEvent.m */; };
 		8A8698191671B07B00F82DDE /* EventKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8A8698181671B07B00F82DDE /* EventKit.framework */; };
 		8A8698211671B5AC00F82DDE /* Safari.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A86981B1671B5AC00F82DDE /* Safari.png */; };
 		8A8698221671B5AC00F82DDE /* Safari@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A86981C1671B5AC00F82DDE /* Safari@2x.png */; };
@@ -147,7 +148,6 @@
 		8ACF03E71664BCB000B114BB /* instagram~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8ACF03D41664BCB000B114BB /* instagram~ipad.png */; };
 		8ACF03E81664BCB000B114BB /* instagram~ipad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8ACF03D51664BCB000B114BB /* instagram~ipad@2x.png */; };
 		8ACF03ED1664C05400B114BB /* sample.png in Resources */ = {isa = PBXBuildFile; fileRef = 8ACF03EC1664C05400B114BB /* sample.png */; };
-		8AF122F41716A51F009792CD /* NHCalendarActivity.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 8AF122F31716A51F009792CD /* NHCalendarActivity.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -188,6 +188,11 @@
 		8A562F1A1681B8610082661D /* NakamapActivityIcon~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NakamapActivityIcon~ipad.png"; sourceTree = "<group>"; };
 		8A562F1B1681B8610082661D /* SHNakamapActivity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SHNakamapActivity.h; sourceTree = "<group>"; };
 		8A562F1C1681B8610082661D /* SHNakamapActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SHNakamapActivity.m; sourceTree = "<group>"; };
+		8A68009917946C1000ECE7A0 /* NHCalendarActivity.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = NHCalendarActivity.bundle; sourceTree = "<group>"; };
+		8A68009A17946C1000ECE7A0 /* NHCalendarActivity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NHCalendarActivity.h; sourceTree = "<group>"; };
+		8A68009B17946C1000ECE7A0 /* NHCalendarActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NHCalendarActivity.m; sourceTree = "<group>"; };
+		8A68009C17946C1000ECE7A0 /* NHCalendarEvent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NHCalendarEvent.h; sourceTree = "<group>"; };
+		8A68009D17946C1000ECE7A0 /* NHCalendarEvent.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NHCalendarEvent.m; sourceTree = "<group>"; };
 		8A8697E91671AEE900F82DDE /* BufferIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BufferIcon.png; sourceTree = "<group>"; };
 		8A8697EA1671AEE900F82DDE /* BufferIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BufferIcon@2x.png"; sourceTree = "<group>"; };
 		8A8697EB1671AEE900F82DDE /* BufferProfileCountBG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BufferProfileCountBG.png; sourceTree = "<group>"; };
@@ -204,10 +209,6 @@
 		8A8698021671AF0A00F82DDE /* ARChromeActivity@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ARChromeActivity@2x.png"; sourceTree = "<group>"; };
 		8A8698031671AF0A00F82DDE /* ARChromeActivity@2x~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ARChromeActivity@2x~ipad.png"; sourceTree = "<group>"; };
 		8A8698041671AF0A00F82DDE /* ARChromeActivity~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ARChromeActivity~ipad.png"; sourceTree = "<group>"; };
-		8A86980A1671AFDE00F82DDE /* NHCalendarActivity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NHCalendarActivity.h; sourceTree = "<group>"; };
-		8A86980B1671AFDE00F82DDE /* NHCalendarActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NHCalendarActivity.m; sourceTree = "<group>"; };
-		8A8698101671AFDE00F82DDE /* NHCalendarEvent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NHCalendarEvent.h; sourceTree = "<group>"; };
-		8A8698111671AFDE00F82DDE /* NHCalendarEvent.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NHCalendarEvent.m; sourceTree = "<group>"; };
 		8A8698181671B07B00F82DDE /* EventKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = EventKit.framework; path = System/Library/Frameworks/EventKit.framework; sourceTree = SDKROOT; };
 		8A86981B1671B5AC00F82DDE /* Safari.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Safari.png; sourceTree = "<group>"; };
 		8A86981C1671B5AC00F82DDE /* Safari@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Safari@2x.png"; sourceTree = "<group>"; };
@@ -361,7 +362,6 @@
 		8ACF03D41664BCB000B114BB /* instagram~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "instagram~ipad.png"; sourceTree = "<group>"; };
 		8ACF03D51664BCB000B114BB /* instagram~ipad@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "instagram~ipad@2x.png"; sourceTree = "<group>"; };
 		8ACF03EC1664C05400B114BB /* sample.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sample.png; sourceTree = "<group>"; };
-		8AF122F31716A51F009792CD /* NHCalendarActivity.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = NHCalendarActivity.bundle; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -516,6 +516,19 @@
 			path = ../Nakamap/SHNakamapActivity;
 			sourceTree = "<group>";
 		};
+		8A68009817946C1000ECE7A0 /* NHCalendarActivity */ = {
+			isa = PBXGroup;
+			children = (
+				8A68009917946C1000ECE7A0 /* NHCalendarActivity.bundle */,
+				8A68009A17946C1000ECE7A0 /* NHCalendarActivity.h */,
+				8A68009B17946C1000ECE7A0 /* NHCalendarActivity.m */,
+				8A68009C17946C1000ECE7A0 /* NHCalendarEvent.h */,
+				8A68009D17946C1000ECE7A0 /* NHCalendarEvent.m */,
+			);
+			name = NHCalendarActivity;
+			path = ../Calendar/NHCalendarActivity/NHCalendarActivity;
+			sourceTree = "<group>";
+		};
 		8A8697E81671AEE900F82DDE /* Images */ = {
 			isa = PBXGroup;
 			children = (
@@ -533,19 +546,6 @@
 				8A8697F41671AEE900F82DDE /* toolbar-profiles@2x.png */,
 			);
 			path = Images;
-			sourceTree = "<group>";
-		};
-		8A8698091671AFDE00F82DDE /* NHCalendarActivity */ = {
-			isa = PBXGroup;
-			children = (
-				8AF122F31716A51F009792CD /* NHCalendarActivity.bundle */,
-				8A86980A1671AFDE00F82DDE /* NHCalendarActivity.h */,
-				8A86980B1671AFDE00F82DDE /* NHCalendarActivity.m */,
-				8A8698101671AFDE00F82DDE /* NHCalendarEvent.h */,
-				8A8698111671AFDE00F82DDE /* NHCalendarEvent.m */,
-			);
-			name = NHCalendarActivity;
-			path = ../Calendar/NHCalendarActivity;
 			sourceTree = "<group>";
 		};
 		8A86981A1671B5AC00F82DDE /* TUSafariActivity */ = {
@@ -593,11 +593,11 @@
 		8AB8C0611664C55C003A236C /* Activities */ = {
 			isa = PBXGroup;
 			children = (
+				8A68009817946C1000ECE7A0 /* NHCalendarActivity */,
 				8A1CCCF316AE3A03007DDB80 /* ZYInstapaperActivity */,
 				8A562F161681B8610082661D /* SHNakamapActivity */,
 				8A8698261671B77700F82DDE /* LINEActivity */,
 				8A86981A1671B5AC00F82DDE /* TUSafariActivity */,
-				8A8698091671AFDE00F82DDE /* NHCalendarActivity */,
 				8AB8C0541664C4D0003A236C /* ARChromeActivity */,
 				8ACF03BB1664BCB000B114BB /* DMActivityInstagram */,
 				8ACF035E1664B86100B114BB /* GSDropboxActivity */,
@@ -975,7 +975,7 @@
 				8A1CCD2916AE3A03007DDB80 /* ZYAddItemViewController-iPad.xib in Resources */,
 				8A1CCD2B16AE3A03007DDB80 /* ZYAddItemViewController.xib in Resources */,
 				8A1CCD2D16AE3A03007DDB80 /* ZYCredentialsViewController.xib in Resources */,
-				8AF122F41716A51F009792CD /* NHCalendarActivity.bundle in Resources */,
+				8A68009E17946C1000ECE7A0 /* NHCalendarActivity.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1035,8 +1035,6 @@
 				8ACF03DB1664BCB000B114BB /* DMActivityInstagram.m in Sources */,
 				8ACF03DE1664BCB000B114BB /* DMResizerViewController.m in Sources */,
 				8AB8C05B1664C4D0003A236C /* ARChromeActivity.m in Sources */,
-				8A8698121671AFDE00F82DDE /* NHCalendarActivity.m in Sources */,
-				8A8698171671AFDE00F82DDE /* NHCalendarEvent.m in Sources */,
 				8A8698251671B5AC00F82DDE /* TUSafariActivity.m in Sources */,
 				8A86982D1671B77700F82DDE /* LINEActivity.m in Sources */,
 				8A562F211681B8610082661D /* SHNakamapActivity.m in Sources */,
@@ -1051,6 +1049,8 @@
 				8A1CCD2C16AE3A03007DDB80 /* ZYCredentialsViewController.m in Sources */,
 				8A1CCD2E16AE3A03007DDB80 /* ZYInstapaperActivity.m in Sources */,
 				8A1CCD2F16AE3A03007DDB80 /* ZYInstapaperActivityItem.m in Sources */,
+				8A68009F17946C1000ECE7A0 /* NHCalendarActivity.m in Sources */,
+				8A6800A017946C1000ECE7A0 /* NHCalendarEvent.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
