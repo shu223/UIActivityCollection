@@ -37,9 +37,6 @@
 [submodule "Line"]
 	path = Line
 	url = git://github.com/nottihub/LineActivity.git
-[submodule "KakaoTalk"]
-	path = KakaoTalk
-	url = git://github.com/minorblend/DCActivities.git
 [submodule "AppStore"]
 	path = AppStore
 	url = git://github.com/J3D1-WARR10R/ATFAppStoreActivity.git
