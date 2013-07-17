@@ -85,3 +85,6 @@ url=git://github.com/shu223/SHNakamapActivity.git
 [submodule "Calendar/YMCalendarActivity"]
 	path = Calendar/YMCalendarActivity
 	url = https://github.com/litesystems/YMCalendarActivity.git
+[submodule "KakaoTalk"]
+	path = KakaoTalk
+	url = https://github.com/l4u/DCActivities.git
