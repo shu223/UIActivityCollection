@@ -36,7 +36,7 @@
 	url = git://github.com/davbeck/TUSafariActivity.git
 [submodule "Line"]
 	path = Line
-	url = git://github.com/nottihub/LineActivity.git
+url=https://github.com/nottihub/LINEActivity.git
 [submodule "AppStore"]
 	path = AppStore
 	url = git://github.com/J3D1-WARR10R/ATFAppStoreActivity.git
