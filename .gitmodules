@@ -37,9 +37,6 @@
 [submodule "Line"]
 	path = Line
 url=https://github.com/nottihub/LINEActivity.git
-[submodule "AppStore"]
-	path = AppStore
-	url = git://github.com/J3D1-WARR10R/ATFAppStoreActivity.git
 [submodule "In-App"]
 	path = In-App
 	url = git://github.com/J3D1-WARR10R/ATFUIWebViewActivity.git
@@ -70,15 +67,9 @@ url=git://github.com/shu223/SHNakamapActivity.git
 [submodule "Pinner"]
 	path = Pinner
 	url = https://github.com/blork/SOPinnerActivity
-[submodule "AppStoreReview"]
-	path = AppStoreReview
-	url = https://github.com/NSPostWhenIdle/MMReviewAppActivityDemo
 [submodule "Kippster"]
 	path = Kippster
 	url = https://github.com/alextrob/ARKippsterActivity
-[submodule "AppStoreUpgrade"]
-	path = AppStoreUpgrade
-	url = https://github.com/NSPostWhenIdle/MMUpgradeActivity
 [submodule "Calendar/NHCalendarActivity"]
 	path = Calendar/NHCalendarActivity
 	url = https://github.com/otaviocc/NHCalendarActivity.git
@@ -88,3 +79,15 @@ url=git://github.com/shu223/SHNakamapActivity.git
 [submodule "KakaoTalk"]
 	path = KakaoTalk
 	url = https://github.com/l4u/DCActivities.git
+[submodule "AppStore/GiftApp"]
+	path = AppStore/GiftApp
+	url = https://github.com/mmorey/MDMGiftAppActivity
+[submodule "AppStore/InApp-AppStore"]
+	path = AppStore/InApp-AppStore
+	url = https://github.com/J3D1-WARR10R/ATFAppStoreActivity
+[submodule "AppStore/Review"]
+	path = AppStore/Review
+	url = https://github.com/NSPostWhenIdle/MMReviewAppActivityDemo
+[submodule "AppStore/Upgrade"]
+	path = AppStore/Upgrade
+	url = https://github.com/NSPostWhenIdle/MMUpgradeActivity
