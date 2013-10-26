@@ -7,7 +7,6 @@
 //
 
 #import "ViewController.h"
-#import "BufferUIActivity.h"
 #import "GSDropboxActivity.h"
 #import "DMActivityInstagram.h"
 #import "ARChromeActivity.h"
@@ -15,7 +14,6 @@
 #import "NHCalendarActivity.h"
 #import "TUSafariActivity.h"
 #import "LINEActivity.h"
-#import "SHNakamapActivity.h"
 
 
 @interface ViewController ()
@@ -88,26 +86,22 @@
     
 
     // activities
-    BufferUIActivity     *bufferActivity     = [[BufferUIActivity alloc] init];
-    GSDropboxActivity    *dropboxActivity    = [[GSDropboxActivity alloc] init];
-    DMActivityInstagram  *instagramActivity  = [[DMActivityInstagram alloc] init];
-    ARChromeActivity     *chromeActivity     = [[ARChromeActivity alloc] init];
-    ZYInstapaperActivity *instapaperActivity = [[ZYInstapaperActivity alloc] init];
-    NHCalendarActivity   *calendarActivity   = [[NHCalendarActivity alloc] init];
-    TUSafariActivity     *safariActivity     = [[TUSafariActivity alloc] init];
-    LINEActivity         *lineActivity       = [[LINEActivity alloc] init];
-    SHNakamapActivity    *nakamapActivity    = [[SHNakamapActivity alloc] init];
+    GSDropboxActivity    *dropbox    = [[GSDropboxActivity alloc] init];
+    DMActivityInstagram  *instagram  = [[DMActivityInstagram alloc] init];
+    ARChromeActivity     *chrome     = [[ARChromeActivity alloc] init];
+    ZYInstapaperActivity *instapaper = [[ZYInstapaperActivity alloc] init];
+    NHCalendarActivity   *calendar   = [[NHCalendarActivity alloc] init];
+    TUSafariActivity     *safari     = [[TUSafariActivity alloc] init];
+    LINEActivity         *line       = [[LINEActivity alloc] init];
     
     NSArray *activities = @[
-    bufferActivity,
-    dropboxActivity,
-    instagramActivity,
-    chromeActivity,
-    instapaperActivity,
-    calendarActivity,
-    safariActivity,
-    lineActivity,
-    nakamapActivity,
+    dropbox,
+    instagram,
+    chrome,
+    instapaper,
+    calendar,
+    safari,
+    line,
     ];
     
     // UIActivityViewController
