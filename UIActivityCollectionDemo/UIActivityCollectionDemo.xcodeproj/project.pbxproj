@@ -83,6 +83,7 @@
 		8ACF03E71664BCB000B114BB /* instagram~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8ACF03D41664BCB000B114BB /* instagram~ipad.png */; };
 		8ACF03E81664BCB000B114BB /* instagram~ipad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8ACF03D51664BCB000B114BB /* instagram~ipad@2x.png */; };
 		8ACF03ED1664C05400B114BB /* sample.png in Resources */ = {isa = PBXBuildFile; fileRef = 8ACF03EC1664C05400B114BB /* sample.png */; };
+		8AE5D7171884AF0100384B5D /* DMColorPickerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8AE5D7161884AF0100384B5D /* DMColorPickerView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -192,6 +193,8 @@
 		8ACF03D41664BCB000B114BB /* instagram~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "instagram~ipad.png"; sourceTree = "<group>"; };
 		8ACF03D51664BCB000B114BB /* instagram~ipad@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "instagram~ipad@2x.png"; sourceTree = "<group>"; };
 		8ACF03EC1664C05400B114BB /* sample.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sample.png; sourceTree = "<group>"; };
+		8AE5D7151884AF0100384B5D /* DMColorPickerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DMColorPickerView.h; sourceTree = "<group>"; };
+		8AE5D7161884AF0100384B5D /* DMColorPickerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DMColorPickerView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -501,6 +504,8 @@
 		8ACF03BB1664BCB000B114BB /* DMActivityInstagram */ = {
 			isa = PBXGroup;
 			children = (
+				8AE5D7151884AF0100384B5D /* DMColorPickerView.h */,
+				8AE5D7161884AF0100384B5D /* DMColorPickerView.m */,
 				8ACF03C11664BCB000B114BB /* DMActivityInstagram.h */,
 				8ACF03C21664BCB000B114BB /* DMActivityInstagram.m */,
 				8ACF03C71664BCB000B114BB /* DMResizerViewController.h */,
@@ -644,6 +649,7 @@
 				8ACF03731664B86100B114BB /* GSDropboxUploader.m in Sources */,
 				8ACF03741664B86100B114BB /* GSDropboxUploadJob.m in Sources */,
 				8ACF03DB1664BCB000B114BB /* DMActivityInstagram.m in Sources */,
+				8AE5D7171884AF0100384B5D /* DMColorPickerView.m in Sources */,
 				8ACF03DE1664BCB000B114BB /* DMResizerViewController.m in Sources */,
 				8AB8C05B1664C4D0003A236C /* ARChromeActivity.m in Sources */,
 				8A8698251671B5AC00F82DDE /* TUSafariActivity.m in Sources */,
