@@ -91,3 +91,6 @@ url=git://github.com/shu223/SHNakamapActivity.git
 [submodule "AppStore/Upgrade"]
 	path = AppStore/Upgrade
 	url = https://github.com/NSPostWhenIdle/MMUpgradeActivity
+[submodule "Tweetbot"]
+	path = Tweetbot
+	url = git@github.com:MattCheetham/MCTweetbotActivity.git
