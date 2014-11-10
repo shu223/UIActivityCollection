@@ -12,7 +12,6 @@
 #import "ARChromeActivity.h"
 #import "ZYInstapaperActivity.h"
 #import "NHCalendarActivity.h"
-#import "TUSafariActivity.h"
 #import "LINEActivity.h"
 
 
@@ -25,8 +24,6 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    
-    self.view.backgroundColor = [UIColor viewFlipsideBackgroundColor];
 }
 
 - (void)didReceiveMemoryWarning
@@ -91,7 +88,6 @@
     ARChromeActivity     *chrome     = [[ARChromeActivity alloc] init];
     ZYInstapaperActivity *instapaper = [[ZYInstapaperActivity alloc] init];
     NHCalendarActivity   *calendar   = [[NHCalendarActivity alloc] init];
-    TUSafariActivity     *safari     = [[TUSafariActivity alloc] init];
     LINEActivity         *line       = [[LINEActivity alloc] init];
     
     NSArray *activities = @[
@@ -100,7 +96,6 @@
     chrome,
     instapaper,
     calendar,
-    safari,
     line,
     ];
     
