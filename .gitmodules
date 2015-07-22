@@ -1,6 +1,3 @@
-[submodule "Buffer"]
-	path = Buffer
-	url = git://github.com/bufferapp/buffer-uiactivity.git
 [submodule "Dropbox"]
 	path = Dropbox
 	url = git://github.com/goosoftware/GSDropboxActivity.git
