@@ -34,15 +34,9 @@
 [submodule "Line"]
 	path = Line
 url=https://github.com/nottihub/LINEActivity.git
-[submodule "In-App"]
-	path = In-App
-	url = git://github.com/J3D1-WARR10R/ATFUIWebViewActivity.git
 [submodule "GoogleMaps"]
 	path = GoogleMaps
 	url = git://github.com/jnjosh/JNJGoogleMapsActivity.git
-[submodule "Nakamap"]
-	path = Nakamap
-url=git://github.com/shu223/SHNakamapActivity.git
 [submodule "Instapaper"]
 	path = Instapaper
 	url = git://github.com/marianoabdala/ZYInstapaperActivity.git
