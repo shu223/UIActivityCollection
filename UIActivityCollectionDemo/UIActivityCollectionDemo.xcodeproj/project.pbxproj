@@ -26,11 +26,6 @@
 		8A1CCD2D16AE3A03007DDB80 /* ZYCredentialsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8A1CCD1816AE3A03007DDB80 /* ZYCredentialsViewController.xib */; };
 		8A1CCD2E16AE3A03007DDB80 /* ZYInstapaperActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A1CCD1A16AE3A03007DDB80 /* ZYInstapaperActivity.m */; };
 		8A1CCD2F16AE3A03007DDB80 /* ZYInstapaperActivityItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A1CCD1C16AE3A03007DDB80 /* ZYInstapaperActivityItem.m */; };
-		8A562F1D1681B8610082661D /* NakamapActivityIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A562F171681B8610082661D /* NakamapActivityIcon.png */; };
-		8A562F1E1681B8610082661D /* NakamapActivityIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A562F181681B8610082661D /* NakamapActivityIcon@2x.png */; };
-		8A562F1F1681B8610082661D /* NakamapActivityIcon@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A562F191681B8610082661D /* NakamapActivityIcon@2x~ipad.png */; };
-		8A562F201681B8610082661D /* NakamapActivityIcon~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A562F1A1681B8610082661D /* NakamapActivityIcon~ipad.png */; };
-		8A562F211681B8610082661D /* SHNakamapActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A562F1C1681B8610082661D /* SHNakamapActivity.m */; };
 		8A68009E17946C1000ECE7A0 /* NHCalendarActivity.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 8A68009917946C1000ECE7A0 /* NHCalendarActivity.bundle */; };
 		8A68009F17946C1000ECE7A0 /* NHCalendarActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A68009B17946C1000ECE7A0 /* NHCalendarActivity.m */; };
 		8A6800A017946C1000ECE7A0 /* NHCalendarEvent.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A68009D17946C1000ECE7A0 /* NHCalendarEvent.m */; };
@@ -115,12 +110,6 @@
 		8A1CCD1A16AE3A03007DDB80 /* ZYInstapaperActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYInstapaperActivity.m; sourceTree = "<group>"; };
 		8A1CCD1B16AE3A03007DDB80 /* ZYInstapaperActivityItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYInstapaperActivityItem.h; sourceTree = "<group>"; };
 		8A1CCD1C16AE3A03007DDB80 /* ZYInstapaperActivityItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYInstapaperActivityItem.m; sourceTree = "<group>"; };
-		8A562F171681B8610082661D /* NakamapActivityIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NakamapActivityIcon.png; sourceTree = "<group>"; };
-		8A562F181681B8610082661D /* NakamapActivityIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NakamapActivityIcon@2x.png"; sourceTree = "<group>"; };
-		8A562F191681B8610082661D /* NakamapActivityIcon@2x~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NakamapActivityIcon@2x~ipad.png"; sourceTree = "<group>"; };
-		8A562F1A1681B8610082661D /* NakamapActivityIcon~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NakamapActivityIcon~ipad.png"; sourceTree = "<group>"; };
-		8A562F1B1681B8610082661D /* SHNakamapActivity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SHNakamapActivity.h; sourceTree = "<group>"; };
-		8A562F1C1681B8610082661D /* SHNakamapActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SHNakamapActivity.m; sourceTree = "<group>"; };
 		8A68009917946C1000ECE7A0 /* NHCalendarActivity.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = NHCalendarActivity.bundle; sourceTree = "<group>"; };
 		8A68009A17946C1000ECE7A0 /* NHCalendarActivity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NHCalendarActivity.h; sourceTree = "<group>"; };
 		8A68009B17946C1000ECE7A0 /* NHCalendarActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NHCalendarActivity.m; sourceTree = "<group>"; };
@@ -328,20 +317,6 @@
 			path = UserInterface;
 			sourceTree = "<group>";
 		};
-		8A562F161681B8610082661D /* SHNakamapActivity */ = {
-			isa = PBXGroup;
-			children = (
-				8A562F171681B8610082661D /* NakamapActivityIcon.png */,
-				8A562F181681B8610082661D /* NakamapActivityIcon@2x.png */,
-				8A562F191681B8610082661D /* NakamapActivityIcon@2x~ipad.png */,
-				8A562F1A1681B8610082661D /* NakamapActivityIcon~ipad.png */,
-				8A562F1B1681B8610082661D /* SHNakamapActivity.h */,
-				8A562F1C1681B8610082661D /* SHNakamapActivity.m */,
-			);
-			name = SHNakamapActivity;
-			path = ../Nakamap/SHNakamapActivity;
-			sourceTree = "<group>";
-		};
 		8A68009817946C1000ECE7A0 /* NHCalendarActivity */ = {
 			isa = PBXGroup;
 			children = (
@@ -388,7 +363,6 @@
 			children = (
 				8A68009817946C1000ECE7A0 /* NHCalendarActivity */,
 				8A1CCCF316AE3A03007DDB80 /* ZYInstapaperActivity */,
-				8A562F161681B8610082661D /* SHNakamapActivity */,
 				8A8698261671B77700F82DDE /* LINEActivity */,
 				8AB8C0541664C4D0003A236C /* ARChromeActivity */,
 				8ACF03BB1664BCB000B114BB /* DMActivityInstagram */,
@@ -613,11 +587,7 @@
 				8A86982F1671B77700F82DDE /* LINEActivityIcon@2x.png in Resources */,
 				8A8698301671B77700F82DDE /* LINEActivityIcon@2x~ipad.png in Resources */,
 				8A8698311671B77700F82DDE /* LINEActivityIcon~ipad.png in Resources */,
-				8A562F1D1681B8610082661D /* NakamapActivityIcon.png in Resources */,
-				8A562F1E1681B8610082661D /* NakamapActivityIcon@2x.png in Resources */,
-				8A562F1F1681B8610082661D /* NakamapActivityIcon@2x~ipad.png in Resources */,
 				8AA0E9551A10823900CF710D /* Launch Screen.xib in Resources */,
-				8A562F201681B8610082661D /* NakamapActivityIcon~ipad.png in Resources */,
 				8A1CCD1D16AE3A03007DDB80 /* instapaper-ipad.png in Resources */,
 				8A1CCD1E16AE3A03007DDB80 /* instapaper-ipad@2x.png in Resources */,
 				8A1CCD1F16AE3A03007DDB80 /* instapaper.png in Resources */,
@@ -649,7 +619,6 @@
 				8ACF03DE1664BCB000B114BB /* DMResizerViewController.m in Sources */,
 				8AB8C05B1664C4D0003A236C /* ARChromeActivity.m in Sources */,
 				8A86982D1671B77700F82DDE /* LINEActivity.m in Sources */,
-				8A562F211681B8610082661D /* SHNakamapActivity.m in Sources */,
 				8A1CCD2116AE3A03007DDB80 /* ZYInstapaperAddRequest.m in Sources */,
 				8A1CCD2216AE3A03007DDB80 /* ZYInstapaperActivitySecurity.m in Sources */,
 				8A1CCD2316AE3A03007DDB80 /* KeychainItemWrapper.m in Sources */,
