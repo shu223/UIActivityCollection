@@ -100,3 +100,6 @@ url=https://github.com/nottihub/LINEActivity.git
 [submodule "GooglePlus/GooglePlusShareActivity"]
 	path = GooglePlus/GooglePlusShareActivity
 	url = https://github.com/lysannschlegel/GooglePlusShareActivity.git
+[submodule "WhatsApp/AQSWhatsAppActivity"]
+	path = WhatsApp/AQSWhatsAppActivity
+	url = https://github.com/AquaSupport/AQSWhatsAppActivity.git
