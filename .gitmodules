@@ -70,9 +70,6 @@ url=https://github.com/nottihub/LINEActivity.git
 [submodule "AppStore/GiftApp"]
 	path = AppStore/GiftApp
 	url = https://github.com/mmorey/MDMGiftAppActivity
-[submodule "AppStore/InApp-AppStore"]
-	path = AppStore/InApp-AppStore
-	url = https://github.com/J3D1-WARR10R/ATFAppStoreActivity
 [submodule "AppStore/Review"]
 	path = AppStore/Review
 	url = https://github.com/NSPostWhenIdle/MMReviewAppActivityDemo
