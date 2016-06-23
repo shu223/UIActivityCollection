@@ -100,3 +100,6 @@ url=https://github.com/nottihub/LINEActivity.git
 [submodule "Instagram/DMActivityInstagram"]
 	path = Instagram/DMActivityInstagram
 	url = https://github.com/coryalder/DMActivityInstagram.git
+[submodule "Instagram/AQSInstagramActivity"]
+	path = Instagram/AQSInstagramActivity
+	url = https://github.com/AquaSupport/AQSInstagramActivity.git
