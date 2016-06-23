@@ -19,9 +19,6 @@
 [submodule "Pinbook"]
 	path = Pinbook
 	url = git://github.com/collindonnell/ALBPinbookActivity.git
-[submodule "Instagram"]
-	path = Instagram
-	url = git://github.com/coryalder/DMActivityInstagram.git
 [submodule "Pocket"]
 	path = Pocket
 	url = https://github.com/tomazsh/NNNetwork
