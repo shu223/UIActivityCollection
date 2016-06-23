@@ -409,13 +409,13 @@
 		8ACF024E1664AFEF00B114BB /* UIActivityCollectionDemo */ = {
 			isa = PBXGroup;
 			children = (
+				8AA0E9521A10819E00CF710D /* Images.xcassets */,
+				8AA0E9541A10823900CF710D /* Launch Screen.xib */,
+				8ACF02631664AFEF00B114BB /* ViewController.xib */,
 				8ACF02571664AFEF00B114BB /* AppDelegate.h */,
 				8ACF02581664AFEF00B114BB /* AppDelegate.m */,
 				8ACF02601664AFEF00B114BB /* ViewController.h */,
 				8ACF02611664AFEF00B114BB /* ViewController.m */,
-				8ACF02631664AFEF00B114BB /* ViewController.xib */,
-				8AA0E9521A10819E00CF710D /* Images.xcassets */,
-				8AA0E9541A10823900CF710D /* Launch Screen.xib */,
 				8ACF024F1664AFEF00B114BB /* Supporting Files */,
 			);
 			path = UIActivityCollectionDemo;
