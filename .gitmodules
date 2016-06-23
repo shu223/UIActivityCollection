@@ -88,3 +88,6 @@ url=https://github.com/nottihub/LINEActivity.git
 [submodule "Pinterest"]
 	path = Pinterest
 	url = https://github.com/stoulouse/PinterestShareActivity
+[submodule "WeChat"]
+	path = WeChat
+	url = https://github.com/iDay/WeixinActivity.git
