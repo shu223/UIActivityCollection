@@ -85,3 +85,6 @@ url=https://github.com/nottihub/LINEActivity.git
 [submodule "Tweetbot"]
 	path = Tweetbot
 	url = git@github.com:MattCheetham/MCTweetbotActivity.git
+[submodule "Pinterest"]
+	path = Pinterest
+	url = https://github.com/stoulouse/PinterestShareActivity
