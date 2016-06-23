@@ -97,3 +97,6 @@ url=https://github.com/nottihub/LINEActivity.git
 [submodule "WhatsApp/AQSWhatsAppActivity"]
 	path = WhatsApp/AQSWhatsAppActivity
 	url = https://github.com/AquaSupport/AQSWhatsAppActivity.git
+[submodule "Instagram/DMActivityInstagram"]
+	path = Instagram/DMActivityInstagram
+	url = https://github.com/coryalder/DMActivityInstagram.git
