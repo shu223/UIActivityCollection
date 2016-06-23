@@ -91,3 +91,9 @@ url=https://github.com/nottihub/LINEActivity.git
 [submodule "WeChat"]
 	path = WeChat
 	url = https://github.com/iDay/WeixinActivity.git
+[submodule "WhatsApp/SSCWhatsAppActivity"]
+	path = WhatsApp/SSCWhatsAppActivity
+	url = https://github.com/sascha/SSCWhatsAppActivity.git
+[submodule "WhatsApp/JBWhatsAppActivity"]
+	path = WhatsApp/JBWhatsAppActivity
+	url = https://github.com/jberlana/JBWhatsAppActivity.git
