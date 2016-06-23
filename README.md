@@ -1,12 +1,16 @@
 UIActivityCollection
 ====================
 
-A collection of iOS6 UIActivity providers.
+A collection of UIActivity providers.
 
-##Download
-    $ git clone git://github.com/shu223/UIActivityCollection.git
-    $ cd UIActivityCollection/
-    $ git submodule update --init --recursive
+![](00.png)
 
-##Usage
-Please check out the demo project included or each reapository.
+##Usege
+
+```
+$ git clone git://github.com/shu223/UIActivityCollection.git
+$ cd UIActivityCollection/
+$ git submodule update --init --recursive
+```
+
+Please check out the demo!
