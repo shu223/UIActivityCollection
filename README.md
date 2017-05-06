@@ -5,7 +5,7 @@ A collection of UIActivity providers.
 
 ![](00.png)
 
-##Usege
+## Usege
 
 ```
 $ git clone git://github.com/shu223/UIActivityCollection.git
